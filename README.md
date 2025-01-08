@@ -1,4 +1,4 @@
-
+This is a modern Shopping Cart website in react.js designed with Tailwind CSS. I used Redux Toolkit to manage the Cart's state throughout the application and combined Local Storage and Session storage to store data in the client browser. I fetched the products from an external fake API endpoint.
 
 # Getting Started with Create React App
 
